@@ -5,7 +5,7 @@ public class Dog extends Animal {
 //Dog类的构造方法
 	public Dog() {
 		
-		System.out.println("子类的构造方法被调用!");
+		
 	}
 
 	
